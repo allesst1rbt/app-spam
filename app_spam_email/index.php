@@ -24,7 +24,7 @@
                 </div>
                 <div class="form-group">
                     <label for="senha">sua senha</label>
-                    <input name="senha" type="text" class="form-control" id="senha" placeholder="senha do seu email">
+                    <input name="senha" type="password" class="form-control" id="senha" placeholder="senha do seu email">
                 </div>
                   <div class="form-group">
                       <label for="para">Para</label>
